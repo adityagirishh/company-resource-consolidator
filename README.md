@@ -79,4 +79,54 @@ WHATSAPP_PHONE="+91xxxxxxxxxx" # Your WhatsApp number with country code
 -   **`create_professional_placement_video`**: Orchestrates the entire video creation process, assembling individual slide clips into a final video.
 -   **`generate_whatsapp_web_link`**: Creates WhatsApp shareable links.
 
+this is how the expected output of the whatsapp message must/will look like:
+```
+ORGANIZATION: Apple
+
+ORGANIZATION DETAILS:
+1. Base Site: https://www.apple.com/
+2. LinkedIn: https://www.linkedin.com/company/apple
+3. Facebook: Search manually for Apple Facebook page
+4. X (Twitter): Search manually for Apple Twitter page
+5. Instagram: Search manually for Apple Instagram page
+6. Role/s Offered: Software Development Engineering Intern
+7. Company Overview: April 1, 1976 (49 years ago) (1976-04-01), in Los Altos, California, U.S.. Founders. Steve Jobs · Steve Wozniak · Ronald Wayne. Headquarters, 1 Apple Park Way,.
+8. Company Size: Research required
+9. Headquarters: Research required
+10. Founded: Research required
+
+INTERVIEW REFERENCES:
+1. Interview Experiences: https://www.glassdoor.com/Interview/Apple-Software-Development-Engineer-Interview-Questions-EI_IE1138.0,5_KO6,35.htm
+2. Additional Interview Resources: https://www.reddit.com/r/dataanalysis/comments/1dh44yc/i_scraped_all_data_analysis_interview_questions/
+
+ROLE-SPECIFIC PREPARATION:
+To get started with the preparation for Software Development Engineering Intern, you can refer to the following resources:
+
+1. Technical Preparation: https://www.quora.com/Preparing-for-Software-Engineer-internship-interview-what-topics-should-I-study-What-should-I-expect
+2. Data Structures and Algorithms: https://www.geeksforgeeks.org/data-structures/
+3. System Design: https://www.geeksforgeeks.org/system-design-tutorial/
+4. Behavioral Interviews: https://www.geeksforgeeks.org/behavioral-interview-questions/
+
+INTERVIEW HIGHLIGHTS (General Preparation):
+1. Interview Preparation Resources:
+- https://www.geeksforgeeks.org/company-preparation/
+- https://leetcode.com/
+- https://www.glassdoor.co.in/
+- https://www.ambitionbox.com/
+
+ADDITIONAL RESOURCES:
+- GeeksForGeeks: https://www.geeksforgeeks.org/
+- LeetCode: https://leetcode.com/
+- AmbitionBox: https://www.ambitionbox.com/
+- Glassdoor: https://www.glassdoor.co.in/
+
+COMPANY CULTURE & VALUES:
+Research the company's official website and LinkedIn page for detailed information about their culture, values, and work environment.
+
+Best Regards,
+Professor Animesh Giri
+LinkedIn: https://www.linkedin.com/in/animesh-giri-15272531/
+Youtube: https://www.youtube.com/channel/UCBFH7hssUsyipttqLxHU-cw
+```
+
 Enjoy automating yOUR placement!
